@@ -16,6 +16,7 @@ public class ProgramaMedia {
 
     float notaFinal = (nota1 + (nota2 * 2) + (nota3 * 3)) / 6;
 
+    // faltou colocar o conceito final A, B, C, D, E
     if (notaFinal < 60) {
       System.out.println("Reprovado");
     } else if (notaFinal >= 60 && notaFinal <= 100) {

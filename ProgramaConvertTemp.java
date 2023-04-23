@@ -6,6 +6,10 @@ public class ProgramaConvertTemp {
 
     Scanner ler = new Scanner(System.in);
 
+    /**
+     * era pra escolher a temperatura de origem e destino e não fazer tudo 
+     */
+
     System.out.println("Digite a temperatura em Celsius: ");
     float tempC = ler.nextFloat();
 

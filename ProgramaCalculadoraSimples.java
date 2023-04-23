@@ -21,7 +21,7 @@ public class ProgramaCalculadoraSimples {
     } else if (operacao.equals("*")) {
       System.out.println("A multiplicação é: " + (num1 * num2));
     } else if (operacao.equals("/")) {
-      System.out.println("A Divisão é: " + (num1 / num2));
+      System.out.println("A Divisão é: " + (num1 / num2)); // e se eu tentar dividir por zero??? kkkkk
     } else {
       System.out.println("Escolhe a operação certa, minha calculadora é limitada :(");
     }
