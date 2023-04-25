@@ -6,6 +6,9 @@ public class Idade {
 
     Scanner ler = new Scanner(System.in);
 
+    // era pra usar lacos, assim vc tem o trabalho de corno de fazer uma a uma, e se forem 1000 idades?
+    // vetor???
+
     int idade1, idade2, idade3, idade4, idade5, idade6, idade7, idade8, idade9, idade10, idade11, idade12;
 
     System.out.println("Digite a primeira idade");
