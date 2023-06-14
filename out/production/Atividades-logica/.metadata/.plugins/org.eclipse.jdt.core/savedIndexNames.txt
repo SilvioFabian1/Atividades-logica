@@ -1,1 +1,0 @@
-INDEX VERSION 1.132+C:\NovaRoma\Lógica de programação\Atividades\Atividades-logica\out\production\Atividades-logica\.metadata\.plugins\org.eclipse.jdt.core
