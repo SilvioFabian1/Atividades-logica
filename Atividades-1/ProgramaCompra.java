@@ -21,7 +21,7 @@ public class ProgramaCompra {
     } else if (opcaoCorrigida.equals("B")) {
       System.out.println("R$ " + preco);
     } else if (opcaoCorrigida.equals("C")) {
-      System.out.println("Informe em quantas parcelas: ");
+      System.out.println("Informe em quantas parcelas: "); //e se eu colocar parcelado em 1 parcela??? nao deveria ter juros mas tem kkkkk
       int parc = ler.nextInt();
       float ultimoPreco = preco * 0.01f * parc;
       System.out.println("Serão " + parc + " parcelas de R$" + ultimoPreco);

@@ -21,5 +21,6 @@ public class ProgramaSoma {
     }
 
     // Não entendi oq quis dizer com "Informar o caminho utilizado"
+    // Prof. Thomas: informar se foi soma ou multiplicacao, voce fez
   }
 }
